@@ -3,7 +3,7 @@ A full featured black jack card counting application
 
 ##setup Guide
 
-###1. Clone the Repository git clone https://github.com/your-repo/black-jack-card-counter.git
+###1. Clone the Repository git clone https://github.com/tunetyme/black-jack-card-counter.git
 cd blackjack-card-counter
 
 2. Create a Virtual Environment (Optional)
