@@ -311,8 +311,11 @@ class CardCounterApp(QMainWindow):
         )
         QMessageBox.information(self, "User Guide", help_text)
 
-if __name__ == "__main__":
+def main():
     app = QApplication(sys.argv)
     window = CardCounterApp()
     window.show()
     sys.exit(app.exec_())
+
+if __name__ == "__main__":
+    main()
