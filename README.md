@@ -52,3 +52,13 @@ Advanced Features
 High and Low Cards Left: Shows the number of high and low cards left in the deck.
 Remaining Cards by Value: Displays the remaining cards by their value to help make informed decisions.
 
+## Folder Structure ## 
+
+BlackjackCardCounter/
+    setup.py
+    BlackjackCardCounter/
+        __init__.py
+        main.py
+        counting.py
+        # any other .py files
+
