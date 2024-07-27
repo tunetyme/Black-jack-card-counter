@@ -1,9 +1,9 @@
 # Black-jack-card-counter
 A full featured black jack card counting application
 
-##setup Guide
+## setup Guide
 
-###1. Clone the Repository git clone https://github.com/tunetyme/black-jack-card-counter.git
+### 1. Clone the Repository git clone https://github.com/tunetyme/black-jack-card-counter.git
 cd blackjack-card-counter
 
 2. Create a Virtual Environment (Optional)
@@ -30,7 +30,7 @@ pip install -r requirements.txt
    This will install the application and its dependencies, allowing you to run it using the blackjack-counter command.
 
 
-User Guide
+ ## User Guide
 Starting the Application
 
 Select Counting Strategy: Choose the card counting strategy (Hi-Lo, Zen, Omega II, Wong Halves) from the dropdown menu.
